@@ -10,10 +10,10 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "8648197806:AAEYs4UnSVIMUt50nS0Km7Q1tvvkZlhZT2o"
-CHANNEL = "@tommarixo"
+BOT_TOKEN = ""
+CHANNEL = ""
 # CHANNEL = -1002048122886
-OWNER_ID = 111893882
+OWNER_ID = ""
 
 # Store the five most recent posts received while running.
 recent_posts = deque(maxlen=5)
