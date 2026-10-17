@@ -12,7 +12,6 @@ from telegram.ext import (
 
 BOT_TOKEN = ""
 CHANNEL = ""
-# CHANNEL = -1002048122886
 OWNER_ID = ""
 
 # Store the five most recent posts received while running.
